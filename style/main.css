@@ -87,16 +87,6 @@ div.bg-capy .gradient {
     font-size: 0.8rem;
 }
 
-.footer .container ul li a {
-    color: white;
-    text-decoration: underline;
-    transition: 0.2s ease-in-out;
-}
-
-.footer .container ul li a:hover {
-    color: #cecece;
-}
-
 .logo {
     position: absolute;
     top: 0.75em;
