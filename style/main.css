@@ -109,6 +109,14 @@ ul.horizontal li {
   margin-right: 0.5em;
 }
 
+.f-r-d {
+  float: right;
+}
+
+img.intext {
+  width: 50%;
+}
+
 @media screen and (max-width: 768px) {
   .logo {
     right: auto;
@@ -125,5 +133,13 @@ ul.horizontal li {
 
   div.bg-capy {
     background-position: left;
+  }
+
+  .f-r-d {
+    float: none;
+  }
+
+  img.intext {
+    width: 80%;
   }
 }
