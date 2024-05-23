@@ -1,0 +1,188 @@
+[
+    {
+        "code": "nl",
+        "name": "Nederland",
+        "zoos": [
+            {
+                "name": "Apenheul",
+                "url": "https://www.apenheul.nl/"
+            },
+            {
+                "name": "Artis",
+                "url": "https://www.artis.nl/"
+            },
+            {
+                "name": "AquaZoo Leeuwarden",
+                "url": "https://www.aquazoo.nl/"
+            },
+            {
+                "name": "Burgers' Zoo",
+                "url": "https://www.burgerszoo.nl/"
+            },
+            {
+                "name": "GaiaZOO",
+                "url": "https://www.gaiazoo.nl/"
+            },
+            {
+                "name": "ZooParc Overloon",
+                "url": "https://www.zooparc.nl/"
+            }
+        ]
+    },
+    {
+        "code": "be",
+        "name": "België",
+        "zoos": [
+            {
+                "name": "Bellewaerde",
+                "url": "https://www.bellewaerde.be/"
+            },
+            {
+                "name": "Pakawi Park",
+                "url": "https://www.pakawipark.be/"
+            },
+            {
+                "name": "Parc Animalier de Bouillon",
+                "url": "https://www.parcanimalierdebouillon.be/"
+            },
+            {
+                "name": "ZOO Planckendael",
+                "url": "https://www.zooplanckendael.be/"
+            },
+            {
+                "name": "Dierenpark de Zonnegloed",
+                "url": "https://www.dezonnegloed.be/"
+            },
+            {
+                "name": "Pairi Daiza",
+                "url": "https://www.pairidaiza.eu/"
+            }
+        ]
+    },
+    {
+        "code": "nz",
+        "name": "New Zealand",
+        "zoos": [
+            {
+                "name": "Wellington Zoo",
+                "url": "https://www.wellingtonzoo.com/"
+            },
+            {
+                "name": "Willowbank Wildlife Reserve",
+                "url": "https://www.willowbank.co.nz/"
+            }
+        ]
+    },
+    {
+        "code": "au",
+        "name": "Australia",
+        "zoos": [
+            {
+                "name": "Sydney Zoo",
+                "url": "https://sydneyzoo.com/"
+            },
+            {
+                "name": "Taronga Zoo",
+                "url": "https://taronga.org.au/taronga-zoo/"
+            },
+            {
+                "name": "Currumbin Wildlife Sanctuary",
+                "url": "https://currumbinsanctuary.com.au/"
+            }
+        ]
+    },
+    {
+        "code": "de",
+        "name": "Deutschland",
+        "zoos": [
+            {
+                "name": "Zoo Berlin",
+                "url": "https://www.zoo-berlin.de/"
+            },
+            {
+                "name": "Zoo Leipzig",
+                "url": "https://www.zoo-leipzig.de/"
+            },
+            {
+                "name": "Zoo Frankfurt",
+                "url": "https://www.zoo-frankfurt.de/"
+            },
+            {
+                "name": "Kölner Zoo",
+                "url": "https://www.koelnerzoo.de/"
+            },
+            {
+                "name": "Zoo Osnabrück",
+                "url": "https://www.zoo-osnabrueck.de/"
+            }
+        ]
+    },
+    {
+        "code": "gb",
+        "name": "United Kingdom",
+        "zoos": [
+            {
+                "name": "Chester Zoo",
+                "url": "https://www.chesterzoo.org/"
+            },
+            {
+                "name": "Drusillas Park",
+                "url": "https://www.drusillas.co.uk/"
+            },
+            {
+                "name": "Northumberland Zoo",
+                "url": "https://www.northumberlandzoo.co.uk/"
+            },
+            {
+                "name": "Yorkshire Wildlife Park",
+                "url": "https://www.yorkshirewildlifepark.com/"
+            },
+            {
+                "name": "Chew Valley Animal Park",
+                "url": "https://chewvalley-animalpark.co.uk/"
+            },
+            {
+                "name": "Blackpool Zoo",
+                "url": "https://www.blackpoolzoo.org.uk/"
+            },
+            {
+                "name": "Dudley Zoo",
+                "url": "https://www.dudleyzoo.org.uk/"
+            },
+            {
+                "name": "Noah's Ark Zoo Farm",
+                "url": "https://noahsarkzoofarm.co.uk/"
+            },
+            {
+                "name": "Shepreth Wildlife Park",
+                "url": "https://sheprethwildlifepark.co.uk/"
+            },
+            {
+                "name": "Hertfordshire Zoo",
+                "url": "https://www.hertfordshirezoo.co.uk/"
+            },
+            {
+                "name": "Southwick's Zoo",
+                "url": "https://southwickszoo.com/"
+            }
+        ]
+    },
+    {
+        "code": "fr",
+        "name": "France",
+        "zoos": [
+            {
+                "name": "Zoo de la Palmyre",
+                "url": "https://www.zoo-palmyre.fr/"
+            },
+            {
+                "name": "Zoo de la Flèche",
+                "url": "https://www.zoo-la-fleche.com/"
+            },
+            {
+                "name": "Zoo des Sables",
+                "url": "https://www.zoodessables.fr/"
+            }
+        ]
+    }
+]
