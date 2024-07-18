@@ -168,7 +168,10 @@
             {
                 "name": "Southwick's Zoo",
                 "url": "https://southwickszoo.com/"
-            }
+            },
+            {
+                "name": "Belfast Zoo",
+                "url": "https://www.belfastcity.gov.uk/zoo/home"
         ]
     },
     {
@@ -186,6 +189,20 @@
             {
                 "name": "Zoo des Sables",
                 "url": "https://www.zoodessables.fr/"
+            }
+        ]
+    },
+    {
+        "code": "ie",
+        "name": "Ireland",
+        "zoos": [
+            {
+                "name": "Fota Wildlife Park",
+                "url": "https://www.fotawildlife.ie/"
+            },
+            {
+                "name": "Secret Valley Wildlife Park",
+                "url": "https://www.secretvalley.ie/"
             }
         ]
     }
